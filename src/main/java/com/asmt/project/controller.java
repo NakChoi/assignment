@@ -13,4 +13,8 @@ public class controller {
     public String HelloWorld(){
         return "To-do Application";
     }
+
+    public void hello(){
+        System.out.println("하이");
+    }
 }
