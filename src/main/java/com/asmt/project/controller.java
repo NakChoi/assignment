@@ -17,4 +17,8 @@ public class controller {
     public void hello(){
         System.out.println("하이");
     }
+
+    public void hello2(){
+        System.out.println("하이22");
+    }
 }
